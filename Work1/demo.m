@@ -1,2 +1,2 @@
 info = audiodevinfo
-info.input(2)
+info.input(3)
